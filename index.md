@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+---
+layout: Personal Website
+---
+## Currently
+UCSD Bachelor，Major in Data Science, Minor in Cognitive Science. Field in Machine Learning and Data Analysis 
 
-You can use the [editor on GitHub](https://github.com/ZhouLi050399/ZhouLi050399.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+`09/2017-06/2021 (Expected)`
+__University Name__
+Degree Awarded
 
-### Markdown
+`1995 - 1997`
+__University Name__
+Degree Awarded 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Awards
 
-```markdown
-Syntax highlighted code block
+`2012`
+Name of Award, Organization 
 
-# Header 1
-## Header 2
-### Header 3
+## Publications
 
-- Bulleted
-- List
+<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-1. Numbered
-2. List
+### Journals
 
-**Bold** and _Italic_ and `Code` text
+`1994`
+Article Title, Journal Title
 
-[Link](url) and ![Image](src)
-```
+`1994`
+Article Title, Journal Title
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Books
 
-### Jekyll Themes
+`1994`
+Book Title, Journal Title
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZhouLi050399/ZhouLi050399.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+`1994`
+Book Title, Journal Title
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Presentations
+
+`1994`
+Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+
+
+## Occupation
+
+`Current`
+__Current Job Title__, Current Employer 
+
+- Task
+- Task
+
+`1994-1996`
+__Current Job Title__, Current Employer 
+
+- Task
+- Task
+
